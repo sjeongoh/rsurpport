@@ -1,0 +1,9 @@
+
+portal:
+  file:
+    default:
+      uploadPath: C:/Users/crossent/Desktop/새 폴더
+  isProd: false
+  environment: local
+  corenect:
+    dtca-name: PHM
